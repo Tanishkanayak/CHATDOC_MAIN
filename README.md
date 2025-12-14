@@ -154,7 +154,3 @@ We extend our gratitude to the following tools and libraries that make this proj
 - [LangChain](https://langchain.com/): For chaining multiple AI models into a cohesive workflow.
 
 ---
-
-## 📜 License
-
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code, provided you include the original copyright notice and license.
